@@ -16,6 +16,11 @@ Exploratory test automation suite for WiserCare patient decision modules with au
 - 0 bugs found
 - Auto-generated bug reports in markdown format
 
+## Tech Stack
+- Playwright
+- TypeScript
+- GitHub Actions
+
 ## Run Tests
 npm run test:registration
 npm run test:modules
